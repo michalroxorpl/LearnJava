@@ -24,7 +24,10 @@ public class BigInitials {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
-        
+        System.out.println( "M     M   CCCCC\n" +
+                            "M M M M  C      \n" +
+                            "M  M  M  C     \n" +
+                            "M     M  C     \n" +
+                            "M     M   CCCCC  ");
     }
 }

@@ -14,7 +14,12 @@ package ticktactoeboard;
 public class DrawTickTacToeBoard {
 
     public static void main(String[] args) {
-        // TODO code application logic here
-        
+        System.out.println( "  |   |\n" +
+                            "X | X | O\n" +
+                            "--+---+---\n" +
+                            "O | O |   \n" +
+                            "--+---+---\n" +
+                            "X |   |   \n" +
+                            "  |   |");
     }
 }
